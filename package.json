@@ -1,0 +1,28 @@
+{
+  "name": "@bongnv/md-frontmatter-loader",
+  "version": "0.1.0",
+  "description": "A webpack loader for markdown files with front-matter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bongnv/md-frontmatter-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "markdown",
+    "frontmatter",
+    "loader"
+  ],
+  "author": "Bong Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bongnv/md-frontmatter-loader/issues"
+  },
+  "homepage": "https://github.com/bongnv/md-frontmatter-loader#readme",
+  "dependencies": {
+    "front-matter": "^3.1.0"
+  }
+}
